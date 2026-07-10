@@ -1,0 +1,7 @@
+yfinance>=0.2.50
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+streamlit
