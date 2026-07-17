@@ -16,6 +16,9 @@ The focus is practical: market questions, clean Python notebooks, readable reaso
 
 | Notebook | Project | What it demonstrates |
 |---|---|---|
+| `01_market_regime_dashboard.ipynb` | Market regime dashboard | Risk-on or risk-off environment, volatility, drawdowns, trader support tooling |
+| `02_cross_asset_momentum_screener.ipynb` | Cross asset momentum screener | ETF screener, assets by momentum, volatility and drawdowns, trader support tooling |
+| `03_simple_backtest_signal.ipynb` | Simple backtest signal | Trend filter, buy & hold, trader support tooling |
 | `04_options_strategy_analyzer.ipynb` | Options payoff analyzer | Options logic, risk/reward, payoff diagrams, trader support tooling |
 | `05_portfolio_risk_dashboard.ipynb` | Portfolio risk dashboard | Portfolio analytics, volatility, drawdown, correlation, allocation |
 | `06_market_breadth_dashboard.ipynb` | Market breadth dashboard | Market internals, sector leadership, trend participation |
